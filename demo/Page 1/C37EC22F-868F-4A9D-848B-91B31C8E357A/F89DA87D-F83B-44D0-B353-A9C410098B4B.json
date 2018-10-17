@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "Version 1 (End me please)"
+    "string": "Version 1 (End me kjekrjnkenaerhn)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 92,
     "width": 239,
     "x": 68,
     "y": 310
   },
-  "glyphBounds": "{{0, 4}, {235, 20}}",
+  "glyphBounds": "{{0, 4}, {164, 44}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Version 1 (End me pl",
+  "name": "Version 1 (End me kj",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
