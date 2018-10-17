@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Version 1 (End me kjekrjnkenaerhn)"
+    "string": "I FIGURED IT OUT GO ME"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,7 +53,7 @@
     "x": 68,
     "y": 310
   },
-  "glyphBounds": "{{0, 4}, {164, 44}}",
+  "glyphBounds": "{{1, 4}, {207, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Version 1 (End me kj",
+  "name": "I FIGURED IT OUT GO",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
